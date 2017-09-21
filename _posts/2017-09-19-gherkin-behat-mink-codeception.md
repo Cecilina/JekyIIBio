@@ -84,6 +84,12 @@ After download both `selenium2` and `geckodriver`. Run
 ~~~
 sudo java -jar -Dwebdriver.gecko.driver=[directory of file geckodriver] [directory of jar file selenium-server-standalone]
 ~~~
+>#### Since there is an issue with geckodriver test for symfony3. using chromedriver
+> download chromedriver [here][chromedriver_download]
+> run commands as following to start it
+{% highlight shell%}
+sudo java -jar -Dwebdriver.gecko.driver=[directory of file chromedriver] [directory of jar file selenium-server-standalone]
+{% endhighlight%}
 
 run
 ~~~
@@ -164,4 +170,5 @@ vendor/bin/codecept run [suit] —steps
 ---
 [selenium2_download]: http://www.seleniumhq.org/download/
 [geckodriver_download]: https://github.com/mozilla/geckodriver/releases
+[chromedriver_download]: https://sites.google.com/a/chromium.org/chromedriver/downloads
 [mink_doc]: http://mink.behat.org/en/latest/index.html

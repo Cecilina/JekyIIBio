@@ -1,3 +1,3 @@
 ---
-title: 📂 env
+title: 📂 Env
 ---

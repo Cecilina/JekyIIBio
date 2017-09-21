@@ -1,3 +1,3 @@
 ---
-title: 📂 test
+title: 📂 Test
 ---
