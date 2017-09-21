@@ -2,7 +2,7 @@
 title: Gherkin Behat Codeception
 teaser: Behat / Codeception TEST Environment
 category: test
-tags: [Test, Workflow]
+tags: [test, workflow]
 ---
 
 Behavior Driven Development (BDD) for Symfony (php7.0) using Behat / Codeception with Gherkin Language.
@@ -107,7 +107,8 @@ We will need complete the function based on the need. [here][mink_doc] is the Mi
 
 ### 1.2 Codeception
 
-Use `codeception` we don't need wrtie Scenario in Gherkin. We can write test Scenario in `PHP`.
+Use `codeception` we don't need write Scenario in Gherkin. We can write test Scenario in `PHP`.
+[Docs][codeception_doc]
 
 Delete `tests` folder completely if exist. It will regenerate.
 
@@ -172,3 +173,4 @@ vendor/bin/codecept run [suit] —steps
 [geckodriver_download]: https://github.com/mozilla/geckodriver/releases
 [chromedriver_download]: https://sites.google.com/a/chromium.org/chromedriver/downloads
 [mink_doc]: http://mink.behat.org/en/latest/index.html
+[codeception_doc]: http://codeception.com/docs/

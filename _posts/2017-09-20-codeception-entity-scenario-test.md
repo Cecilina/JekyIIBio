@@ -2,7 +2,7 @@
 title: Codeception Scenario
 teaser: Functional / Unit / Acceptance Codeception Test
 category: test
-tags: [Test, Workflow]
+tags: [test, workflow]
 ---
 
 Codeception Scenario Test for BDD and TDD on Symfony3.

@@ -2,7 +2,7 @@
 title: Continuous Integration (CI)
 teaser: Continuous Integration for Symfony (PHP7.0) using Jenkins in Vagrant Virtualbox
 category: env
-tags: [Environment, Workflow, Deploy]
+tags: [environment, workflow, deploy]
 ---
 
 Set up an Continuous Integration (CI) Environment for Symfony (php7.0) in Vagrant Virtualbox in local vitrual machine.
