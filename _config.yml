@@ -77,3 +77,5 @@ gems:
   - jekyll-sitemap
 
 paginate: 10
+
+github: [metadata]
