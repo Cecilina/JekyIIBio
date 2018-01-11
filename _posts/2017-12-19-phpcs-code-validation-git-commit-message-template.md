@@ -1,7 +1,7 @@
 ---
 title: BLT code validation and Git commit message template
 teaser: Environment / PHP Code Sniffer/ Git
-category: Environment
+category: environment
 tags: [environment, workflow]
 ---
 BLT code validation

@@ -1,7 +1,7 @@
 ---
 title: VSCODE XDEBUG for Drupal on Mac
 teaser: Environment / VSCODE / XDEBUG / Drupal VM
-category: Environment
+category: environment
 tags: [environment, workflow]
 ---
 

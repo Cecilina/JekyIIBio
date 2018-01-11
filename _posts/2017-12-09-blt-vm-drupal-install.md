@@ -1,7 +1,7 @@
 ---
 title: BLT Drupal VM install on Mac
 teaser: Environment / BLT / Drupal8 / Drupal VM
-category: Environment
+category: environment
 tags: [environment, workflow]
 ---
 

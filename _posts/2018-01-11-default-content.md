@@ -1,8 +1,8 @@
 ---
 title: Utility of Default Content contribute module
 teaser: Utility / Drupal / Default Content
-category: Utility
-tags: [Utility, workflow]
+category: utility
+tags: [utility, workflow]
 ---
 
 Requirements: has a basic drupal project

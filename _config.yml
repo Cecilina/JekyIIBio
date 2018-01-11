@@ -71,7 +71,7 @@ defaults:
 sass:
   sass_dir: _assets/css
 
-gems:
+plugin:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap

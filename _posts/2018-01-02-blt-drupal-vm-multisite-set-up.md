@@ -1,7 +1,7 @@
 ---
 title: Multi-site set up for drupal for local development
 teaser: Environment / Drupal / BLT/ Drupal VM
-category: Environment
+category: environment
 tags: [environment, workflow]
 ---
 

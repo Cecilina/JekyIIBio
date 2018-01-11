@@ -1,7 +1,7 @@
 ---
 title: Drupal8 Drush MAMP Environment
 teaser: Environment / MAMP / Drupal8 / Drush
-category: Environment
+category: environment
 tags: [environment, workflow]
 ---
 
