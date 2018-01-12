@@ -10,16 +10,16 @@ Requirements: has a basic drupal project
 
 ### default content module vs drupal core config manager
   > config manager can allow us to export a lots of core config such as views.
-  > however, if you want to export content from drupal to code, need the help of default_content or yml_content module
+  > however, if you want to export content from drupal to code, need the help of default_content or yaml_content module
 
 ### utility content module vs drupal core config manager
   Here introduce default content:
     first download and enable default content module
   ```
-    drush pm-download default_content
+    composer require drupal/default_content
     drush en default_content
   ```
-  for example when use
+  for example export block_content
 
   ```
     drush dce block_content block_id --file=file_path
