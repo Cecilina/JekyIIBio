@@ -77,5 +77,6 @@ plugin:
   - jekyll-sitemap
 
 paginate: 10
+paginate_path: "/JekyIIBio/JekyIIBio/page:num/"
 
 github: [metadata]
